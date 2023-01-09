@@ -1,1 +1,1 @@
-Using any information available to you, including the information in their PRs, guess as many as your competitors secret keys as you can. 
+Using any information available to you, including the information in their PRs, figure out as many as your competitors secret keys as you can. Send an email to tholmes@utk.edu and llee@utk.edu with the competitor names and codes that you figured out by xxx. 
